@@ -1,5 +1,4 @@
-{
-    "data":[
+[
         {
             "id":0,
             "visitedCountries": 11,
@@ -31,4 +30,4 @@
             "imgSrc": "./images/couple-venice.jpg"
         }
     ]
-}
+
