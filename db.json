@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "id":0,
+            "visitedCountries": 11,
+            "days":25,
+            "name":"European Quest",
+            "starLevel": 4,
+            "entryPrice": "3,385",
+            "reducedPrice": "2,877",
+            "imgSrc": "./images/vespa.jpg"
+        },
+        {
+            "id":1,
+            "visitedCountries": 2,
+            "days":25,
+            "name":"Simply Italy",
+            "starLevel": 5,
+            "entryPrice": "2,155",
+            "reducedPrice": "1,832",
+            "imgSrc": "./images/woman.jpg"
+        },
+        {
+            "id":2,
+            "visitedCountries": 1,
+            "days":10,
+            "name":"Italian Espresso",
+            "starLevel": 3,
+            "entryPrice": "1,465",
+            "reducedPrice": "1,245",
+            "imgSrc": "./images/couple-venice.jpg"
+        }
+    ]
+}
